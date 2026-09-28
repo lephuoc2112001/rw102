@@ -17,5 +17,7 @@ public class Program {
         Exercise1.question14();
         Exercise1.question15();
 
+        Exercise5.questionDemo();
+
     }
 }
