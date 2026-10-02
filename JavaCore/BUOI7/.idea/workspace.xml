@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="070135bb-1e4b-4ddb-a85e-4099bf264890" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../btvn-buoi6/btvn-buoi6(NEW).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn-buoi7/btvn-buoi7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn-buoi7/src/backend/QuanLySach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn-buoi7/src/entity/Bao1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn-buoi7/src/entity/Sach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn-buoi7/src/entity/TaiLieu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn-buoi7/src/entity/TapChi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../btvn-buoi7/src/frontend/Program1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi1/Buoi1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi1/src/Gender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi1/src/Position.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../btvn-buoi6/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../btvn-buoi6/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../btvn-buoi6/btvn-buoi6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../btvn-buoi6/src/backend/QuanLySach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../btvn-buoi6/src/backend/QuanLySach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/untitled.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000050335252035" />
+      <entry key="S2" value="1.0493719171040894" />
+      <entry key="S5" value="1.4476979207660614" />
+      <entry key="S10" value="2.5491033689546843" />
+      <entry key="S30" value="8.625895914359518" />
+      <entry key="S60" value="16.524268593823038" />
+      <entry key="M2" value="27.041808458468164" />
+      <entry key="M5" value="48.66688903262045" />
+      <entry key="M10" value="77.94108964329932" />
+      <entry key="M15" value="99.75837288496855" />
+      <entry key="M30" value="137.1166969336408" />
+      <entry key="H1" value="166.04620596317065" />
+      <entry key="H2" value="184.37229119780335" />
+      <entry key="H4" value="194.7700618617882" />
+      <entry key="D1" value="205.0877054454507" />
+      <entry key="W1" value="207.54022437635086" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="6.397389490127532E-35" />
+      <entry key="MS500" value="1.4514912120800666E-7" />
+      <entry key="S2" value="0.024736000218550477" />
+      <entry key="S5" value="0.38790277505802484" />
+      <entry key="S10" value="1.0772134535123086" />
+      <entry key="S30" value="2.9109153615361287" />
+      <entry key="S60" value="4.975253918510858" />
+      <entry key="M2" value="7.947857179923964" />
+      <entry key="M5" value="15.63487457577455" />
+      <entry key="M10" value="27.69420837509611" />
+      <entry key="M15" value="37.3773668994414" />
+      <entry key="M30" value="54.73200877312899" />
+      <entry key="H1" value="68.56689929632185" />
+      <entry key="H2" value="77.44379781607029" />
+      <entry key="H4" value="82.52829977078923" />
+      <entry key="D1" value="88.07960641995261" />
+      <entry key="W1" value="89.68268675597056" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.9714825608826367E-10" />
+      <entry key="MS500" value="0.011455026233066384" />
+      <entry key="S2" value="0.3755525649933139" />
+      <entry key="S5" value="1.3609411658297355" />
+      <entry key="S10" value="3.2539042368127697" />
+      <entry key="S30" value="11.227051992001899" />
+      <entry key="S60" value="21.223966406070048" />
+      <entry key="M2" value="34.768970784158924" />
+      <entry key="M5" value="64.13568790285255" />
+      <entry key="M10" value="105.49239052504748" />
+      <entry key="M15" value="137.0092009758488" />
+      <entry key="M30" value="191.7579294296467" />
+      <entry key="H1" value="234.55687737753559" />
+      <entry key="H2" value="261.78451345777125" />
+      <entry key="H4" value="277.28158469951774" />
+      <entry key="D1" value="293.1643373063291" />
+      <entry key="W1" value="297.22247894509667" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JxQZhz8ZzX42NqUIA4xKIVQhR2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Le Hong Phuoc/Desktop/rw102/JavaCore/BUOI7/src/backend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Le Hong Phuoc\Desktop\rw102\JavaCore\BUOI7\src\backend" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="070135bb-1e4b-4ddb-a85e-4099bf264890" name="Changes" comment="" />
+      <created>1790600298901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790600298901</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

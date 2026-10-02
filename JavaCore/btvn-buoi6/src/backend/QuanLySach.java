@@ -22,12 +22,14 @@ import java.util.Scanner;
         // 1. Thêm mới tài liệu
         public void themTaiLieu() {
             System.out.println("\n--- CHỌN LOẠI TÀI LIỆU CẦN THÊM ---");
+
             System.out.println("1. Sách");
             System.out.println("2. Tạp chí");
             System.out.println("3. Báo");
             System.out.print("Mời chọn (1-3): ");
             int type = scanner.nextInt();
             scanner.nextLine();
+
 
             System.out.print("Nhập mã tài liệu: ");
             String maTaiLieu = scanner.nextLine();

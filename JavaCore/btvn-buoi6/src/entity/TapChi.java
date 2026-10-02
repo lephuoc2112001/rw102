@@ -21,6 +21,10 @@ package entity;
 
         @Override
         public void hienThiThongTin() {
+            String url ="jdbc:mysql://127.0.0.1:3306/qlcb";
+            String username ="root";
+            String password = "211201";
+
             super.hienThiThongTin();
             System.out.println(" | Số PH: " + soPhatHanh + " | Tháng PH: " + thangPhatHanh);
         }
